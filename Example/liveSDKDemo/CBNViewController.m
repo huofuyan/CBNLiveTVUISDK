@@ -7,6 +7,8 @@
 //
 
 #import "CBNViewController.h"
+#import <liveSDKDemo/liveSDKDemo.h>
+
 
 @interface CBNViewController ()
 
@@ -18,6 +20,7 @@
 {
     [super viewDidLoad];
 	// Do any additional setup after loading the view, typically from a nib.
+    [TestOC log];
 }
 
 - (void)didReceiveMemoryWarning

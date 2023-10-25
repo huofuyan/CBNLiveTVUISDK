@@ -1,0 +1,23 @@
+PODS:
+  - liveSDKDemo (0.1.0):
+    - MBProgressHUD
+  - MBProgressHUD (1.2.0)
+
+DEPENDENCIES:
+  - liveSDKDemo (from `../`)
+
+SPEC REPOS:
+  trunk:
+    - MBProgressHUD
+
+EXTERNAL SOURCES:
+  liveSDKDemo:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  liveSDKDemo: 63561a0b7946e275ccbaff3e2a1d64c03bc09059
+  MBProgressHUD: 3ee5efcc380f6a79a7cc9b363dd669c5e1ae7406
+
+PODFILE CHECKSUM: 8a18135879b729c00827d0c0cf47069779caf02c
+
+COCOAPODS: 1.12.1
