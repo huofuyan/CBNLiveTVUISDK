@@ -3,7 +3,7 @@
   "version": "0.1.0",
   "summary": "集成点播直播UI SDK",
   "description": "TODO: Add long description of the pod here.",
-  "homepage": "https://github.com/huofuyan/CBNLiveTVUISDK.git",
+  "homepage": "git@github.com:huofuyan/CBNLiveTVUISDK.git",
   "license": {
     "type": "MIT",
     "file": "LICENSE"

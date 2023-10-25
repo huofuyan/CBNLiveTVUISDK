@@ -21,7 +21,7 @@ Pod::Spec.new do |s|
 TODO: Add long description of the pod here.
                        DESC
 
-  s.homepage         = 'https://github.com/huofuyan/CBNLiveTVUISDK.git' #项目主页
+  s.homepage         = 'git@github.com:huofuyan/CBNLiveTVUISDK.git' #项目主页
   # s.screenshots     = 'www.example.com/screenshots_1', 'www.example.com/screenshots_2'
   s.license          = { :type => 'MIT', :file => 'LICENSE' } #开源协议
   s.author           = { 'cbn_huofuyan' => 'huofuyan@cbnbn.cn' } #作者
