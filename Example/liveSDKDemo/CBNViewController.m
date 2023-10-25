@@ -7,7 +7,7 @@
 //
 
 #import "CBNViewController.h"
-#import <liveSDKDemo/liveSDKDemo.h>
+#import <liveSDKDemoLib/TestOC.h>
 
 
 @interface CBNViewController ()

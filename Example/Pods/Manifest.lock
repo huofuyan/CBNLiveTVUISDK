@@ -1,5 +1,5 @@
 PODS:
-  - liveSDKDemo (0.1.0):
+  - liveSDKDemo (0.1.1):
     - MBProgressHUD
   - MBProgressHUD (1.2.0)
 
@@ -15,7 +15,7 @@ EXTERNAL SOURCES:
     :path: "../"
 
 SPEC CHECKSUMS:
-  liveSDKDemo: a44783005e2082ac8118b071e8d013e8b43d3a60
+  liveSDKDemo: a2ed48526545d6b67ebbe6ac57faa0a32330dc3e
   MBProgressHUD: 3ee5efcc380f6a79a7cc9b363dd669c5e1ae7406
 
 PODFILE CHECKSUM: 8a18135879b729c00827d0c0cf47069779caf02c
