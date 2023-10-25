@@ -10,8 +10,7 @@
 #endif
 #endif
 
-#import "liveSDKDemo.h"
-#import "TestOC.h"
+#import "test2.h"
 
 FOUNDATION_EXPORT double liveSDKDemoVersionNumber;
 FOUNDATION_EXPORT const unsigned char liveSDKDemoVersionString[];
