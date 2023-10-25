@@ -1,9 +1,9 @@
 {
   "name": "liveSDKDemo",
-  "version": "0.1.2",
+  "version": "0.1.3",
   "summary": "集成点播直播UI SDK",
   "description": "TODO: Add long description of the pod here.",
-  "homepage": "git@github.com:huofuyan/CBNLiveTVUISDK.git",
+  "homepage": "https://github.com/huofuyan/CBNLiveTVUISDK.git",
   "license": {
     "type": "MIT",
     "file": "LICENSE"
@@ -13,7 +13,7 @@
   },
   "source": {
     "git": "file://Users/cbn_ios/Documents/iOS_Demo/podDemo2/liveSDKDemo",
-    "tag": "0.1.2"
+    "tag": "0.1.3"
   },
   "platforms": {
     "ios": "9.0"
@@ -21,6 +21,7 @@
   "static_framework": true,
   "requires_arc": true,
   "source_files": "liveSDKDemo/Classes/**/*.{h,m}",
+  "frameworks": "Foundation",
   "ios": {
     "vendored_frameworks": "liveSDKDemo/lib/liveSDKDemoLib.framework"
   },
